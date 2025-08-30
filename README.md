@@ -22,7 +22,8 @@ Predict product-level profit and extract actionable business insights.
 
 * XGBoost
 
-### Best Model: XGBoost, explaining ~50% of the variance in profit.
+### Best Model: 
+XGBoost, explaining ~50% of the variance in profit.
 
 ## Methodology
 
@@ -30,7 +31,7 @@ Predict product-level profit and extract actionable business insights.
 
 Handled missing values, outliers, and categorical encoding (frequency encoding & one-hot encoding).
 
-### Feature engineering to capture product/supplier-level insights.
+Feature engineering to capture product/supplier-level insights.
 
 ### Exploratory Data Analysis (EDA)
 
