@@ -1,4 +1,4 @@
-### Sales Data Analysis & Business Insights
+# Sales Data Analysis & Business Insights
 
 I built a machine learning model to predict product profits for a retail store.
 
@@ -6,11 +6,13 @@ The dataset was collected manually by me from a store in Erode (name withheld at
 
 ## Project Highlights
 
-# Dataset: Proprietary retail sales data (manually collected).
+### Dataset:
+Proprietary retail sales data (manually collected).
 
-# Objective: Predict product-level profit and extract actionable business insights.
+#### Objective: 
+Predict product-level profit and extract actionable business insights.
 
-# Algorithms Used:
+### Algorithms Used:
 
 * Linear Regression
 
@@ -20,23 +22,23 @@ The dataset was collected manually by me from a store in Erode (name withheld at
 
 * XGBoost
 
-# Best Model: XGBoost, explaining ~50% of the variance in profit.
+### Best Model: XGBoost, explaining ~50% of the variance in profit.
 
 ## Methodology
 
-# Data Preprocessing
+### Data Preprocessing
 
 Handled missing values, outliers, and categorical encoding (frequency encoding & one-hot encoding).
 
-# Feature engineering to capture product/supplier-level insights.
+### Feature engineering to capture product/supplier-level insights.
 
-# Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Identified most profitable supplier cities and high-performing product patterns.
 
 Visualized trends in sales and profitability.
 
-# Model Training & Tuning
+### Model Training & Tuning
 
 Initial models had low accuracy.
 
@@ -44,7 +46,7 @@ Improved performance using GridSearchCV hyperparameter tuning.
 
 Residual analysis confirmed model reliability (residuals ~0 and randomly distributed).
 
-# Model Explainability
+### Model Explainability
 
 Applied SHAP analysis to interpret feature influence.
 
