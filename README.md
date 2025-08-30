@@ -9,7 +9,7 @@ The dataset was collected manually by me from a store in Erode (name withheld at
 ### Dataset:
 Proprietary retail sales data (manually collected).
 
-#### Objective: 
+### Objective: 
 Predict product-level profit and extract actionable business insights.
 
 ### Algorithms Used:
