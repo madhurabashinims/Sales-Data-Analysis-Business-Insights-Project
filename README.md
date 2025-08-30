@@ -76,3 +76,10 @@ Delivered data-driven recommendations for improving profit margins.
 Extend dataset with time-series elements for sales trend forecasting.
 
 Deploy the model with a simple React/Flask frontend for real-time predictions.
+
+<img width="928" height="944" alt="image" src="https://github.com/user-attachments/assets/186e1c69-9de4-49c7-a20c-ca2e1c215ed9" />
+<img width="1026" height="547" alt="image" src="https://github.com/user-attachments/assets/45774025-55ec-4ee4-856e-8ed66dd61ec1" />
+<img width="639" height="547" alt="image" src="https://github.com/user-attachments/assets/21bec1ae-92ae-43bc-bfa9-3f03095cb4d0" />
+
+
+
