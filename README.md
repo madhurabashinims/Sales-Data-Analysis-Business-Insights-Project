@@ -16,7 +16,7 @@ Predict product-level profit and extract actionable business insights.
 
 * Linear Regression
 
- * Ridge Regression
+* Ridge Regression
 
 * Lasso Regression
 
@@ -29,37 +29,37 @@ XGBoost, explaining ~50% of the variance in profit.
 
 ### Data Preprocessing
 
-Handled missing values, outliers, and categorical encoding (frequency encoding & one-hot encoding).
+* Handled missing values, outliers, and categorical encoding (frequency encoding & one-hot encoding).
 
-Feature engineering to capture product/supplier-level insights.
+* Feature engineering to capture product/supplier-level insights.
 
 ### Exploratory Data Analysis (EDA)
 
-Identified most profitable supplier cities and high-performing product patterns.
+* Identified most profitable supplier cities and high-performing product patterns.
 
-Visualized trends in sales and profitability.
+* Visualized trends in sales and profitability.
 
 ### Model Training & Tuning
 
-Initial models had low accuracy.
+* Initial models had low accuracy.
 
-Improved performance using GridSearchCV hyperparameter tuning.
+* Improved performance using GridSearchCV hyperparameter tuning.
 
-Residual analysis confirmed model reliability (residuals ~0 and randomly distributed).
+* Residual analysis confirmed model reliability (residuals ~0 and randomly distributed).
 
 ### Model Explainability
 
-Applied SHAP analysis to interpret feature influence.
+* Applied SHAP analysis to interpret feature influence.
 
-Cross-validated with XGBoost’s feature importance for robust insights.
+* Cross-validated with XGBoost’s feature importance for robust insights.
 
 ## Results & Insights
 
-XGBoost significantly outperformed baseline regression models.
+* XGBoost significantly outperformed baseline regression models.
 
-Business insights revealed supplier-city combinations and product patterns with highest profitability potential.
+* Business insights revealed supplier-city combinations and product patterns with highest profitability potential.
 
-Delivered data-driven recommendations for improving profit margins.
+*Delivered data-driven recommendations for improving profit margins.
 
 ## Skills Strengthened
 
@@ -73,9 +73,9 @@ Delivered data-driven recommendations for improving profit margins.
 
 ## Future Work
 
-Extend dataset with time-series elements for sales trend forecasting.
+* Extend dataset with time-series elements for sales trend forecasting.
 
-Deploy the model with a simple React/Flask frontend for real-time predictions.
+* Deploy the model with a simple React/Flask frontend for real-time predictions.
 
 <img width="928" height="944" alt="image" src="https://github.com/user-attachments/assets/186e1c69-9de4-49c7-a20c-ca2e1c215ed9" />
 <img width="1026" height="547" alt="image" src="https://github.com/user-attachments/assets/45774025-55ec-4ee4-856e-8ed66dd61ec1" />
