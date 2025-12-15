@@ -59,7 +59,7 @@ XGBoost, explaining ~50% of the variance in profit.
 
 * Business insights revealed supplier-city combinations and product patterns with highest profitability potential.
 
-*Delivered data-driven recommendations for improving profit margins.
+* Delivered data-driven recommendations for improving profit margins.
 
 ## Skills Strengthened
 
